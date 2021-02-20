@@ -10,4 +10,5 @@
 - [ ] allow deleting of new lists
 - [ ] Fix edit item alignment
 
+##
 - [ ] Maybe make this a website instead of electron app
