@@ -1,0 +1,23 @@
+{
+    "name": "todolist",
+    "version": "0.1.0",
+    "author": "0Exe",
+    "description": "todolist by 0exe",
+    "main": "main.js",
+    "scripts": {
+        "start": "npx electron-builder",
+        "pack": "electron-builder --dir",
+        "dist": "electron-builder"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "electron": "^11.3.0",
+        "electron-builder": "^22.9.1"
+    },
+    "build": {
+        "appId": "todolist",
+        "win": {
+            "icon": "note.png"
+        }
+    }
+}
