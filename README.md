@@ -12,3 +12,5 @@
 
 ##
 - [ ] Maybe make this a website instead of electron app
+
+push main.js
