@@ -35,11 +35,9 @@ body {
 .edit {
     margin-top: -17.5px;
     margin-left: 99%;
-    transition: ease-in-out 0.12s;
 }
 
 .edit:hover {
-    color: #f67474;
     cursor: pointer;
 }
 
