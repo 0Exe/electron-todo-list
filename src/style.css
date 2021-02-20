@@ -1,0 +1,49 @@
+body {
+    background-color: #1d252c;
+    color: #fff;
+    display: flex;
+    overflow: hidden;
+    
+}
+
+.sidebar {
+    padding: 1%;
+    width: 12%;
+    height: 96%;
+    background-color: #12161a;
+}
+
+.items {
+    margin: 1%;
+    height: 20px;
+    width: 96%;
+    padding: 1%;
+    background-color: #12161a;
+    border-left: #f67474 3px solid;
+}
+
+.items-done {
+    margin: 1%;
+    height: 20px;
+    width: 96%;
+    padding: 1%;
+    background-color: #12161a;
+    border-left: aquamarine 3px solid;
+    color: aquamarine;
+}
+
+.edit {
+    margin-top: -17.5px;
+    margin-left: 99%;
+    transition: ease-in-out 0.12s;
+}
+
+.edit:hover {
+    color: #f67474;
+    cursor: pointer;
+}
+
+.itemscont {
+    width: 88%;
+    height: 96%;
+}
